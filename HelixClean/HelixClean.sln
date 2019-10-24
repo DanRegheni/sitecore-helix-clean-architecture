@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helixclean.Project.Common", "src\Project\Common\code\Helixclean.Project.Common.csproj", "{6F8C583B-E667-4DEB-A603-77932C7803B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{3A3AF7F5-9800-4689-ACB1-9641462088DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelixClean", "HelixClean", "{95C135D5-5AFC-433B-9C36-83F1C4CC6085}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9F60EDD8-AA69-4E5F-A423-9209AA6F73BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helixclean.Foundation.Serialization", "src\Foundation\Serialization\code\Helixclean.Foundation.Serialization.csproj", "{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{EC7BD98F-7306-43DA-9BC4-2576D0C7A7AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{478B1803-A575-4A64-A399-BF9CE937721C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helixclean.Foundation.DI", "src\Foundation\DI\code\Helixclean.Foundation.DI.csproj", "{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DI", "DI", "{4C583A31-6D7B-4185-A476-A5816F01A3B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helixclean.Foundation.Core", "src\Foundation\Core\code\Helixclean.Foundation.Core.csproj", "{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{08B62DD5-F9EF-4940-A398-EA8F2FBF87FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{384F2C05-28A3-4F8A-8C4B-D68E03C55BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helixclean.Project.Helixclean", "src\Project\Helixclean\code\Helixclean.Project.Helixclean.csproj", "{BE27848D-2FF5-42DF-9324-667D66D47E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8C583B-E667-4DEB-A603-77932C7803B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8C583B-E667-4DEB-A603-77932C7803B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8C583B-E667-4DEB-A603-77932C7803B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8C583B-E667-4DEB-A603-77932C7803B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE27848D-2FF5-42DF-9324-667D66D47E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE27848D-2FF5-42DF-9324-667D66D47E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE27848D-2FF5-42DF-9324-667D66D47E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE27848D-2FF5-42DF-9324-667D66D47E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F8C583B-E667-4DEB-A603-77932C7803B0} = {9F60EDD8-AA69-4E5F-A423-9209AA6F73BE}
+		{95C135D5-5AFC-433B-9C36-83F1C4CC6085} = {3A3AF7F5-9800-4689-ACB1-9641462088DE}
+		{9F60EDD8-AA69-4E5F-A423-9209AA6F73BE} = {3A3AF7F5-9800-4689-ACB1-9641462088DE}
+		{4238D5C5-AFD2-4DF5-BF3D-ADB9D46ADC08} = {478B1803-A575-4A64-A399-BF9CE937721C}
+		{478B1803-A575-4A64-A399-BF9CE937721C} = {EC7BD98F-7306-43DA-9BC4-2576D0C7A7AE}
+		{0D3A6F11-B5FF-4D8C-8A74-19501D2E80D4} = {4C583A31-6D7B-4185-A476-A5816F01A3B3}
+		{4C583A31-6D7B-4185-A476-A5816F01A3B3} = {EC7BD98F-7306-43DA-9BC4-2576D0C7A7AE}
+		{0C1E2FEC-AC54-4CF0-905A-890D3BF711D5} = {08B62DD5-F9EF-4940-A398-EA8F2FBF87FB}
+		{08B62DD5-F9EF-4940-A398-EA8F2FBF87FB} = {EC7BD98F-7306-43DA-9BC4-2576D0C7A7AE}
+		{BE27848D-2FF5-42DF-9324-667D66D47E30} = {95C135D5-5AFC-433B-9C36-83F1C4CC6085}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE51F0B-8335-4020-93E6-857DB095179D}
+	EndGlobalSection
+EndGlobal
