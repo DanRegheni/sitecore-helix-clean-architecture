@@ -1,0 +1,18 @@
+﻿---
+ID: "8a61b931-b959-471d-9745-f49fd2c1840b"
+Parent: "eedb616e-bcbf-4e22-a43c-9e478a742aae"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Helixclean
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T093504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
