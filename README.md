@@ -11,4 +11,4 @@ Another goal is to provide a basic solution structure that can be used to develo
 - Sitecore Helix
 
  # Design Decisions and Dependencies
-The goal of this sample is to provide a fairly bare-bones starter kit for new projects. It does not include every possible framework, tool, or feature that a particular enterprise application might benefit from. Its choices of technology for things like data access are rooted in what is the most common, accessible technology for most business software developers using Microsoft's ans Sitecore's technology stack.
+The goal of this sample is to provide a starter kit for new sitecore projects. It does not include every possible framework, tool, or feature that a particular enterprise application might benefit from. Its choices of technology for things like data access are rooted in what is the most common, accessible technology for most business software developers using Microsoft's ans Sitecore's technology stack.
